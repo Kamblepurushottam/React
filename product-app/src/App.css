@@ -1,0 +1,24 @@
+.table{
+  margin-top: 20px;
+}
+.btn{
+  justify-content: left;
+}
+.main{
+  background-color: whitesmoke;
+  margin-top: 40px;
+  width: 80%;
+  margin-left: 130px;
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 20px;
+}
+.div-head{
+  margin-top: 40px;
+  gap: 260px;
+  margin-left: 420px;
+}
+.total{
+  text-align: end;
+  margin-right:40px;
+}
